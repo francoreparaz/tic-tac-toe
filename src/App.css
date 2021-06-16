@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom, rgb(6, 6, 194), rgb(0, 0, 0));;
+  height: 100vh;
+  
+}
+
+.boton{
+  position: relative;
+   margin:15px;
+   
+}

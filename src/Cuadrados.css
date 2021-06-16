@@ -1,0 +1,19 @@
+.inside{
+display: flex;
+    align-items: center;
+    position: relative;
+    height: 100px;
+    width: 100px;
+    margin: 8px;
+    background-color: rgb(83, 83, 83);
+    border-radius: 15px;
+    
+}
+
+
+.turno{
+  position: relative;
+  font-size: large;
+  font-weight: 100px;
+  margin: 45%;
+}

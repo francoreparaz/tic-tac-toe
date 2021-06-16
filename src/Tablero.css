@@ -1,0 +1,19 @@
+.tablero{
+ display: inline-flex;
+ flex-direction: column;
+ background-color: red;
+ border-radius: 15px;
+ width:350px;
+ height: 350px;
+}
+.row{
+    display: inline-flex;
+    flex-direction: row;
+    position: relative;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    
+
+}
